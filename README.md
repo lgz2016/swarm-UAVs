@@ -14,14 +14,17 @@
 - 视觉识别技术：深度学习或者opencv提供的视觉库
 - 路径跟踪：
 - 无人机硬件平台：
-[大疆M100](https://www.dji.com/cn/matrice100?site=brandsite&from=nav) + [manifold2](https://www.dji.com/cn/manifold-2?site=brandsite&from=nav)(manifold2是manifold第二代，基本能兼容)
-[大疆M600 Pro](https://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav) + TX2
-[Guidance](https://www.dji.com/cn/guidance?site=brandsite&from=nav)
+[大疆M100](https://www.dji.com/cn/matrice100?site=brandsite&from=nav) + [manifold2](https://www.dji.com/cn/manifold-2?site=brandsite&from=nav)(manifold第二代，基本能兼容) <br>
+[大疆M600 Pro](https://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav) + TX2 <br>
+[Guidance](https://www.dji.com/cn/guidance?site=brandsite&from=nav) <br>
+无线模块 <br>
 - 无人机软件平台：
-[大疆官方mobile SDK教程](https://developer.dji.com/cn/mobile-sdk/documentation/introduction/index.html)
-[大疆官方onboard SDK教程](https://developer.dji.com/cn/onboard-sdk/documentation/quick-start/index.html)
-[大疆官方mobile sdk源码](https://github.com/dji-sdk/Mobile-SDK-Android)
-[大疆官方onboard sdk源码](https://github.com/dji-sdk/Onboard-SDK)
+[大疆官方mobile SDK教程](https://developer.dji.com/cn/mobile-sdk/documentation/introduction/index.html) <br>
+[大疆官方onboard SDK教程](https://developer.dji.com/cn/onboard-sdk/documentation/quick-start/index.html) <br>
+[大疆官方mobile sdk源码](https://github.com/dji-sdk/Mobile-SDK-Android) <br>
+[大疆官方onboard sdk源码](https://github.com/dji-sdk/Onboard-SDK) <br>
+[大疆Assistant2调参软件](https://www.dji.com/cn/downloads/softwares/assistant-dji-2-for-matrice) <br>
+[大疆下载中心](https://www.dji.com/cn/downloads) <br>
 
 
 
