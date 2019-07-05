@@ -16,14 +16,14 @@
   - 3.单个无人机实现后，进行双机领导-跟随飞行，无人机之间实时通讯、互相识别、保持距离，稳定抵达目的地；
   - 4.4架以上无人机的集群飞行，利用集群优势更好的完成特定任务，与传统编队飞行算法比较。
 - 无人机硬件平台： <br>
-[大疆M100](https://www.dji.com/cn/matrice100?site=brandsite&from=nav) + [manifold2](https://www.dji.com/cn/manifold-2?site=brandsite&from=nav)(manifold第二代，基本能兼容) <br>
-[大疆M600 Pro](https://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav) + TX2 <br>
-[Guidance](https://www.dji.com/cn/guidance?site=brandsite&from=nav) <br>
-无线模块（还未选型） <br>
+[`大疆M100`](https://www.dji.com/cn/matrice100?site=brandsite&from=nav) + [`manifold2`](https://www.dji.com/cn/manifold-2?site=brandsite&from=nav)(manifold第二代，基本能兼容) <br>
+[`大疆M600 Pro`](https://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav) + `TX2` <br>
+[`Guidance`](https://www.dji.com/cn/guidance?site=brandsite&from=nav) <br>
+`无线模块（还未选型）` <br>
 - 无人机软件平台： <br>
-[大疆官方SDK教程](https://developer.dji.com/cn/onboard-sdk/) <br>
-[大疆Assistant2调参软件](https://www.dji.com/cn/downloads/softwares/assistant-dji-2-for-matrice) <br>
-[大疆下载中心](https://www.dji.com/cn/downloads) <br>
+[`大疆官方SDK教程`](https://developer.dji.com/cn/onboard-sdk/) <br>
+[`大疆Assistant2调参软件`](https://www.dji.com/cn/downloads/softwares/assistant-dji-2-for-matrice) <br>
+[`大疆下载中心`](https://www.dji.com/cn/downloads) <br>
 
 
 
