@@ -12,7 +12,7 @@
 - 仿真：多主体建模，python，用学院服务器。需要考虑噪声、风速、故障、通信延迟等实际因素。
 - 实际飞行：
   - 1.首先实现单个飞机的自主飞行，利用视觉识别目标，实时规划路径，保持与地面间的通讯，稳定抵达目的地；
-  - 2.SLAM技术较为复杂，先在室内进行实验；参考[slam简介](https://www.cnblogs.com/gaoxiang12/p/3695962.html)[高翔slam14讲](https://github.com/gaoxiang12/slambook)
+  - 2.SLAM技术较为复杂，先在室内进行实验；参考[`slam简介`](https://www.cnblogs.com/gaoxiang12/p/3695962.html)[`高翔slam14讲`](https://github.com/gaoxiang12/slambook)
   - 3.单个无人机实现后，进行双机领导-跟随飞行，无人机之间实时通讯、互相识别、保持距离，稳定抵达目的地；
   - 4.4架以上无人机的集群飞行，利用集群优势更好的完成特定任务，与传统编队飞行算法比较。
 - 无人机硬件平台： <br>
