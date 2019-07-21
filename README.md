@@ -20,7 +20,7 @@
 [`大疆M600 Pro`](https://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav) + `TX2` <br>
 [`Guidance`](https://www.dji.com/cn/guidance?site=brandsite&from=nav) <br>
 `无线模块（还未选型）` <br>
-自组装[`px4开源飞控`](https://px4.io/)
+[`自组装px4开源飞控`](https://px4.io/)
 - 无人机软件平台： <br>
 [`大疆官方onboard-sdk教程`](https://developer.dji.com/cn/onboard-sdk/documentation/introduction/homepage.html) <br>
 [`大疆onboard-sdk源码`](https://github.com/dji-sdk/Onboard-SDK) <br>
